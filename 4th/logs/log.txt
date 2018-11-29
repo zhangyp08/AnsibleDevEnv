@@ -1,0 +1,309 @@
+2018-11-13 20:25:26,962 log.py[line: 53] INFO: info
+2018-11-13 20:26:07,345 log.py[line: 53] INFO: info
+2018-11-13 20:26:33,515 log.py[line: 54] INFO: info
+2018-11-13 20:40:53,984 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-13 20:40:53,984 TestRequest.py[line: 28] INFO: PASS
+2018-11-13 20:40:53,984 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-13 20:40:54,027 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-13 20:40:54,028 TestRequest.py[line: 28] INFO: PASS
+2018-11-13 20:40:54,028 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-13 20:40:54,039 TestRequest.py[line: 58] INFO: test_polls_1-2
+2018-11-13 20:40:54,039 TestRequest.py[line: 59] INFO: PASS
+2018-11-13 20:40:54,039 TestRequest.py[line: 60] INFO: Actual result:{'status': '200', 'message': 'success', 'data': {'1': 'aw', '2': 'cs', '3': 'wang'}}
+2018-11-13 20:40:54,944 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-13 20:40:54,944 TestRequest.py[line: 59] INFO: PASS
+2018-11-13 20:40:54,944 TestRequest.py[line: 60] INFO: Actual result:{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-11-13 20:40:55,214 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-13 20:40:55,214 TestRequest.py[line: 59] INFO: PASS
+2018-11-13 20:40:55,214 TestRequest.py[line: 60] INFO: Actual result:{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}
+2018-11-13 20:40:55,224 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-13 20:40:55,224 TestRequest.py[line: 28] INFO: PASS
+2018-11-13 20:40:55,224 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'login success'}
+2018-11-13 20:40:55,238 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-13 20:40:55,238 TestRequest.py[line: 28] INFO: PASS
+2018-11-13 20:40:55,238 TestRequest.py[line: 29] INFO: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-13 20:40:55,980 TestRequest.py[line: 58] INFO: test_music1-7
+2018-11-13 20:40:55,980 TestRequest.py[line: 59] INFO: PASS
+2018-11-13 20:40:55,980 TestRequest.py[line: 60] INFO: Actual result:{'code': 200, 'message': '成功!', 'result': ''}
+2018-11-13 20:40:56,038 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-13 20:40:56,038 TestRequest.py[line: 28] INFO: PASS
+2018-11-13 20:40:56,038 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-13 20:40:56,075 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-13 20:40:56,075 TestRequest.py[line: 28] INFO: PASS
+2018-11-13 20:40:56,085 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-13 20:40:56,117 TestRequest.py[line: 58] INFO: test_polls_1-2
+2018-11-13 20:40:56,118 TestRequest.py[line: 59] INFO: PASS
+2018-11-13 20:40:56,118 TestRequest.py[line: 60] INFO: Actual result:{'status': '200', 'message': 'success', 'data': {'1': 'aw', '2': 'cs', '3': 'wang'}}
+2018-11-13 20:40:56,253 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-13 20:40:56,253 TestRequest.py[line: 59] INFO: PASS
+2018-11-13 20:40:56,253 TestRequest.py[line: 60] INFO: Actual result:{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-11-13 20:40:56,546 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-13 20:40:56,547 TestRequest.py[line: 59] INFO: PASS
+2018-11-13 20:40:56,547 TestRequest.py[line: 60] INFO: Actual result:{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}
+2018-11-13 20:40:56,562 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-13 20:40:56,563 TestRequest.py[line: 28] INFO: PASS
+2018-11-13 20:40:56,563 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'login success'}
+2018-11-13 20:40:56,581 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-13 20:40:56,581 TestRequest.py[line: 28] INFO: PASS
+2018-11-13 20:40:56,582 TestRequest.py[line: 29] INFO: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-13 20:40:56,826 TestRequest.py[line: 58] INFO: test_music1-7
+2018-11-13 20:40:56,826 TestRequest.py[line: 59] INFO: PASS
+2018-11-13 20:40:56,826 TestRequest.py[line: 60] INFO: Actual result:{'code': 200, 'message': '成功!', 'result': ''}
+2018-11-13 20:40:56,902 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-13 20:40:56,903 TestRequest.py[line: 28] INFO: PASS
+2018-11-13 20:40:56,903 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-13 20:40:56,965 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-13 20:40:56,966 TestRequest.py[line: 28] INFO: PASS
+2018-11-13 20:40:56,966 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-13 20:40:56,994 TestRequest.py[line: 58] INFO: test_polls_1-2
+2018-11-13 20:40:56,994 TestRequest.py[line: 59] INFO: PASS
+2018-11-13 20:40:56,994 TestRequest.py[line: 60] INFO: Actual result:{'status': '200', 'message': 'success', 'data': {'1': 'aw', '2': 'cs', '3': 'wang'}}
+2018-11-13 20:40:57,131 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-13 20:40:57,131 TestRequest.py[line: 59] INFO: PASS
+2018-11-13 20:40:57,131 TestRequest.py[line: 60] INFO: Actual result:{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-11-13 20:40:57,411 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-13 20:40:57,412 TestRequest.py[line: 59] INFO: PASS
+2018-11-13 20:40:57,412 TestRequest.py[line: 60] INFO: Actual result:{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}
+2018-11-13 20:40:57,435 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-13 20:40:57,436 TestRequest.py[line: 28] INFO: PASS
+2018-11-13 20:40:57,436 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'login success'}
+2018-11-13 20:40:57,465 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-13 20:40:57,465 TestRequest.py[line: 28] INFO: PASS
+2018-11-13 20:40:57,465 TestRequest.py[line: 29] INFO: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-13 20:40:57,724 TestRequest.py[line: 58] INFO: test_music1-7
+2018-11-13 20:40:57,724 TestRequest.py[line: 59] INFO: PASS
+2018-11-13 20:40:57,724 TestRequest.py[line: 60] INFO: Actual result:{'code': 200, 'message': '成功!', 'result': ''}
+2018-11-18 01:30:45,092 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:30:45,094 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:30:45,094 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:30:45,132 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:30:45,133 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:30:45,133 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:30:45,159 TestRequest.py[line: 63] ERROR: test_polls_1-2
+2018-11-18 01:30:45,160 TestRequest.py[line: 64] ERROR: FAIL
+2018-11-18 01:30:45,160 TestRequest.py[line: 65] ERROR: Actual result:{'status': '200', 'message': 'success', 'data': {'1': 'java', '2': 'python'}}
+2018-11-18 01:30:48,807 TestRequest.py[line: 32] ERROR: test_vote_login1-5
+2018-11-18 01:30:48,808 TestRequest.py[line: 33] ERROR: FAIL
+2018-11-18 01:30:48,808 TestRequest.py[line: 34] ERROR: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:30:48,839 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-18 01:30:48,839 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:30:48,840 TestRequest.py[line: 29] INFO: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:30:50,317 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:30:50,317 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:30:50,318 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:30:50,357 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:30:50,358 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:30:50,358 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:30:50,375 TestRequest.py[line: 63] ERROR: test_polls_1-2
+2018-11-18 01:30:50,376 TestRequest.py[line: 64] ERROR: FAIL
+2018-11-18 01:30:50,376 TestRequest.py[line: 65] ERROR: Actual result:{'status': '200', 'message': 'success', 'data': {'1': 'java', '2': 'python'}}
+2018-11-18 01:30:51,667 TestRequest.py[line: 32] ERROR: test_vote_login1-5
+2018-11-18 01:30:51,668 TestRequest.py[line: 33] ERROR: FAIL
+2018-11-18 01:30:51,668 TestRequest.py[line: 34] ERROR: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:30:51,698 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-18 01:30:51,699 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:30:51,699 TestRequest.py[line: 29] INFO: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:30:52,710 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:30:52,711 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:30:52,711 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:30:52,740 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:30:52,740 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:30:52,740 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:30:52,771 TestRequest.py[line: 63] ERROR: test_polls_1-2
+2018-11-18 01:30:52,771 TestRequest.py[line: 64] ERROR: FAIL
+2018-11-18 01:30:52,772 TestRequest.py[line: 65] ERROR: Actual result:{'status': '200', 'message': 'success', 'data': {'1': 'java', '2': 'python'}}
+2018-11-18 01:31:00,762 TestRequest.py[line: 32] ERROR: test_vote_login1-5
+2018-11-18 01:31:00,762 TestRequest.py[line: 33] ERROR: FAIL
+2018-11-18 01:31:00,763 TestRequest.py[line: 34] ERROR: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:31:00,787 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-18 01:31:00,788 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:31:00,788 TestRequest.py[line: 29] INFO: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:32:45,409 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:32:45,410 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:32:45,410 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:32:45,441 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:32:45,441 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:32:45,442 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:32:45,464 TestRequest.py[line: 63] ERROR: test_polls_1-2
+2018-11-18 01:32:45,465 TestRequest.py[line: 64] ERROR: FAIL
+2018-11-18 01:32:45,465 TestRequest.py[line: 65] ERROR: Actual result:{'status': '200', 'message': 'success', 'data': {'1': 'java', '2': 'python'}}
+2018-11-18 01:32:46,131 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:32:46,131 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:32:46,131 TestRequest.py[line: 60] INFO: Actual result:{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-11-18 01:32:46,378 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:32:46,379 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:32:46,379 TestRequest.py[line: 60] INFO: Actual result:{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}
+2018-11-18 01:32:46,408 TestRequest.py[line: 32] ERROR: test_vote_login1-5
+2018-11-18 01:32:46,408 TestRequest.py[line: 33] ERROR: FAIL
+2018-11-18 01:32:46,409 TestRequest.py[line: 34] ERROR: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:32:46,436 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-18 01:32:46,437 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:32:46,437 TestRequest.py[line: 29] INFO: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:32:46,750 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:32:46,750 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:32:46,750 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:32:46,781 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:32:46,782 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:32:46,782 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:32:46,811 TestRequest.py[line: 63] ERROR: test_polls_1-2
+2018-11-18 01:32:46,811 TestRequest.py[line: 64] ERROR: FAIL
+2018-11-18 01:32:46,812 TestRequest.py[line: 65] ERROR: Actual result:{'status': '200', 'message': 'success', 'data': {'1': 'java', '2': 'python'}}
+2018-11-18 01:32:46,973 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:32:46,974 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:32:46,974 TestRequest.py[line: 60] INFO: Actual result:{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-11-18 01:32:47,243 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:32:47,243 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:32:47,243 TestRequest.py[line: 60] INFO: Actual result:{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}
+2018-11-18 01:32:47,275 TestRequest.py[line: 32] ERROR: test_vote_login1-5
+2018-11-18 01:32:47,275 TestRequest.py[line: 33] ERROR: FAIL
+2018-11-18 01:32:47,276 TestRequest.py[line: 34] ERROR: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:32:47,307 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-18 01:32:47,308 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:32:47,308 TestRequest.py[line: 29] INFO: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:32:47,737 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:32:47,738 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:32:47,738 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:32:47,772 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:32:47,773 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:32:47,773 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:32:47,801 TestRequest.py[line: 63] ERROR: test_polls_1-2
+2018-11-18 01:32:47,802 TestRequest.py[line: 64] ERROR: FAIL
+2018-11-18 01:32:47,802 TestRequest.py[line: 65] ERROR: Actual result:{'status': '200', 'message': 'success', 'data': {'1': 'java', '2': 'python'}}
+2018-11-18 01:32:47,969 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:32:47,969 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:32:47,969 TestRequest.py[line: 60] INFO: Actual result:{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-11-18 01:32:48,299 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:32:48,299 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:32:48,300 TestRequest.py[line: 60] INFO: Actual result:{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}
+2018-11-18 01:32:48,315 TestRequest.py[line: 32] ERROR: test_vote_login1-5
+2018-11-18 01:32:48,315 TestRequest.py[line: 33] ERROR: FAIL
+2018-11-18 01:32:48,315 TestRequest.py[line: 34] ERROR: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:32:48,341 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-18 01:32:48,341 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:32:48,341 TestRequest.py[line: 29] INFO: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:36:45,035 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:36:45,035 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:36:45,035 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:36:45,070 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:36:45,070 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:36:45,071 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:36:45,087 TestRequest.py[line: 58] INFO: test_polls_1-2
+2018-11-18 01:36:45,088 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:36:45,088 TestRequest.py[line: 60] INFO: Actual result:{'status': '200', 'message': 'success', 'data': {'1': 'java', '2': 'python'}}
+2018-11-18 01:36:45,739 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:36:45,740 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:36:45,741 TestRequest.py[line: 60] INFO: Actual result:{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-11-18 01:36:46,006 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:36:46,007 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:36:46,007 TestRequest.py[line: 60] INFO: Actual result:{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}
+2018-11-18 01:36:46,031 TestRequest.py[line: 32] ERROR: test_vote_login1-5
+2018-11-18 01:36:46,032 TestRequest.py[line: 33] ERROR: FAIL
+2018-11-18 01:36:46,032 TestRequest.py[line: 34] ERROR: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:36:46,056 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-18 01:36:46,057 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:36:46,057 TestRequest.py[line: 29] INFO: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:36:46,359 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:36:46,360 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:36:46,360 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:36:46,394 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:36:46,394 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:36:46,395 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:36:46,419 TestRequest.py[line: 58] INFO: test_polls_1-2
+2018-11-18 01:36:46,420 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:36:46,420 TestRequest.py[line: 60] INFO: Actual result:{'status': '200', 'message': 'success', 'data': {'1': 'java', '2': 'python'}}
+2018-11-18 01:36:46,615 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:36:46,616 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:36:46,616 TestRequest.py[line: 60] INFO: Actual result:{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-11-18 01:36:46,882 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:36:46,883 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:36:46,883 TestRequest.py[line: 60] INFO: Actual result:{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}
+2018-11-18 01:36:46,909 TestRequest.py[line: 32] ERROR: test_vote_login1-5
+2018-11-18 01:36:46,909 TestRequest.py[line: 33] ERROR: FAIL
+2018-11-18 01:36:46,910 TestRequest.py[line: 34] ERROR: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:36:46,938 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-18 01:36:46,939 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:36:46,939 TestRequest.py[line: 29] INFO: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:36:47,368 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:36:47,368 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:36:47,369 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:36:47,393 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:36:47,394 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:36:47,394 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:36:47,414 TestRequest.py[line: 58] INFO: test_polls_1-2
+2018-11-18 01:36:47,415 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:36:47,416 TestRequest.py[line: 60] INFO: Actual result:{'status': '200', 'message': 'success', 'data': {'1': 'java', '2': 'python'}}
+2018-11-18 01:36:47,591 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:36:47,591 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:36:47,591 TestRequest.py[line: 60] INFO: Actual result:{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-11-18 01:36:47,845 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:36:47,845 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:36:47,846 TestRequest.py[line: 60] INFO: Actual result:{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}
+2018-11-18 01:36:47,871 TestRequest.py[line: 32] ERROR: test_vote_login1-5
+2018-11-18 01:36:47,871 TestRequest.py[line: 33] ERROR: FAIL
+2018-11-18 01:36:47,872 TestRequest.py[line: 34] ERROR: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:36:47,894 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-18 01:36:47,894 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:36:47,894 TestRequest.py[line: 29] INFO: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:39:43,920 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:39:43,921 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:39:43,921 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:39:43,946 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:39:43,946 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:39:43,946 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:39:43,971 TestRequest.py[line: 58] INFO: test_polls_1-2
+2018-11-18 01:39:43,972 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:39:43,972 TestRequest.py[line: 60] INFO: Actual result:{'status': '200', 'message': 'success', 'data': {'1': 'java', '2': 'python'}}
+2018-11-18 01:39:44,775 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:39:44,776 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:39:44,776 TestRequest.py[line: 60] INFO: Actual result:{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-11-18 01:39:45,020 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:39:45,020 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:39:45,020 TestRequest.py[line: 60] INFO: Actual result:{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}
+2018-11-18 01:39:45,034 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-18 01:39:45,034 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:39:45,035 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'login success'}
+2018-11-18 01:39:45,050 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-18 01:39:45,050 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:39:45,051 TestRequest.py[line: 29] INFO: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:39:45,342 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:39:45,343 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:39:45,343 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:39:45,365 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:39:45,366 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:39:45,366 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:39:45,388 TestRequest.py[line: 58] INFO: test_polls_1-2
+2018-11-18 01:39:45,389 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:39:45,389 TestRequest.py[line: 60] INFO: Actual result:{'status': '200', 'message': 'success', 'data': {'1': 'java', '2': 'python'}}
+2018-11-18 01:39:45,603 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:39:45,604 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:39:45,604 TestRequest.py[line: 60] INFO: Actual result:{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-11-18 01:39:45,857 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:39:45,857 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:39:45,857 TestRequest.py[line: 60] INFO: Actual result:{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}
+2018-11-18 01:39:45,883 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-18 01:39:45,884 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:39:45,884 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'login success'}
+2018-11-18 01:39:45,902 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-18 01:39:45,902 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:39:45,903 TestRequest.py[line: 29] INFO: Actual result:{'status': '10021', 'message': 'wrong username or password'}
+2018-11-18 01:39:46,374 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:39:46,375 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:39:46,375 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:39:46,410 TestRequest.py[line: 27] INFO: test_vote_1-1
+2018-11-18 01:39:46,410 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:39:46,410 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'success'}
+2018-11-18 01:39:46,433 TestRequest.py[line: 58] INFO: test_polls_1-2
+2018-11-18 01:39:46,433 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:39:46,434 TestRequest.py[line: 60] INFO: Actual result:{'status': '200', 'message': 'success', 'data': {'1': 'java', '2': 'python'}}
+2018-11-18 01:39:46,605 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:39:46,605 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:39:46,605 TestRequest.py[line: 60] INFO: Actual result:{'code': 200, 'msg': '成功!', 'data': {'key': '00d91e8e0cca2b76f515926a36db68f5', 'phone': '13594347817', 'name': 'peakchao', 'passwd': '123456', 'text': '这是我的签名。', 'img': 'https://res.apiopen.top/2018031820405521.key.png', 'other': '这是我的备注信息1', 'other2': '这是我的备注信息2', 'createTime': '2018-03-18\xa020:40:55'}}
+2018-11-18 01:39:46,872 TestRequest.py[line: 58] INFO: testdemo1-4
+2018-11-18 01:39:46,872 TestRequest.py[line: 59] INFO: PASS
+2018-11-18 01:39:46,872 TestRequest.py[line: 60] INFO: Actual result:{'code': 202, 'msg': '用户名或者密码错误！', 'data': None}
+2018-11-18 01:39:46,901 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-18 01:39:46,901 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:39:46,901 TestRequest.py[line: 29] INFO: Actual result:{'status': '200', 'message': 'login success'}
+2018-11-18 01:39:46,930 TestRequest.py[line: 27] INFO: test_vote_login1-5
+2018-11-18 01:39:46,930 TestRequest.py[line: 28] INFO: PASS
+2018-11-18 01:39:46,931 TestRequest.py[line: 29] INFO: Actual result:{'status': '10021', 'message': 'wrong username or password'}

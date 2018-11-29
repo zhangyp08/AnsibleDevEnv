@@ -1,0 +1,5 @@
+Tue,13 Nov 2018 19:28:14 logtest.py[line:12] DEBUG debug
+Tue,13 Nov 2018 19:28:14 logtest.py[line:13] INFO info
+Tue,13 Nov 2018 19:28:14 logtest.py[line:14] WARNING warning
+Tue,13 Nov 2018 19:28:14 logtest.py[line:15] ERROR error
+Tue,13 Nov 2018 19:28:14 logtest.py[line:16] CRITICAL critical
